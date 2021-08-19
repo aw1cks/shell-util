@@ -8,7 +8,7 @@ Written in POSIX sh for maximum portability.
 
 ### log.sh
 
-![log.sh Example](log_sh_demo.png)
+![log.sh Example](img/log_sh_demo.png)
 
 This script prints a coloured log entry, with different error levels (info, warning, and error).
 
