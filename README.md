@@ -28,3 +28,17 @@ $ ./log.sh info 'Hello world!'
 $ ./log.sh warn 'Something went wrong'
 $ ./log.sh error 'Houston, we have a problem'
 ```
+
+### get_arch.sh
+
+This script accounts for edge conditions in detecting CPU architecure across OSes.
+
+The output string is in GOARCH format.
+
+No arguments are read.
+
+#### Usage
+
+```shell
+$ ./get_arch.sh
+```
